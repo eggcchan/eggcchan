@@ -57,4 +57,4 @@ Here are some ideas to get you started:
 <br><br>
 <br>
 <p align="center">
-<img width="1280" height="268" alt="Untitled413_20260725200849" src="https://github.com/user-attachments/assets/5c01008c-8b95-4d38-b637-c95771cae422" />
+<img width="1280"  alt="Untitled413_20260725200849" src="https://github.com/user-attachments/assets/5c01008c-8b95-4d38-b637-c95771cae422" />
