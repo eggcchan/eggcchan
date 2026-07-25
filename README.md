@@ -49,7 +49,6 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=eggcchan&color=053c71&style=flat&label=Fished" alt="Views">
 </p>
 <br>
-<p align="center">
 <br>
 <br>
 <br>
