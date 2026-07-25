@@ -33,6 +33,17 @@ Here are some ideas to get you started:
 <br>
 <br>
 <br>
+<p align="center">
+ <img width="340" height="072" alt="Untitled419_20260725145702" src="https://github.com/user-attachments/assets/b31076df-8429-4cef-b19a-10b747c76f26" />
+<br>
+<br>
+ <img width="99" height="56" alt="Untitled417_20260725145538" src="https://github.com/user-attachments/assets/2e9cd725-df6b-4079-9e76-1a8afbf70068" />
+<img width="99" height="56" alt="Untitled421_20260725145846" src="https://github.com/user-attachments/assets/409917d9-d1ea-4eed-b840-ae6fb43885d9" />
+<img width="99" height="56" alt="Untitled420" src="https://github.com/user-attachments/assets/55bd8183-7517-4bbb-b20c-a7a2e821b2b9" />
+<br>
+ <br>
+<br>
+<br>
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=eggcchan&color=053c71&style=flat&label=Fished" alt="Views">
