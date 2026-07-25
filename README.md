@@ -15,11 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-<img width="1280" alt="Untitled414_20260725124139" src="https://github.com/user-attachments/assets/15ad3b8c-9a96-4db1-8dc0-3519759ce005" />
-
+<img width="1280"  alt="Untitled414_20260725200826" src="https://github.com/user-attachments/assets/5ef2ac61-2a10-44be-ba54-e190b60f1bdd" />
 
 <p align="center">
-<img width="1236" height="715" alt="Untitled407_20260725120553" src="https://github.com/user-attachments/assets/829bd73b-4f01-4887-b0a2-bfbe923bd780" />
+<img width="736" height="414" alt="Untitled407_20260725200719" src="https://github.com/user-attachments/assets/a1ec9c6b-d98c-4ac6-98da-eea2388f1a07" />
 <p align="center">
 <br>
 <br> 
@@ -34,12 +33,12 @@ Here are some ideas to get you started:
 <br>
 <br>
 <p align="center">
- <img width="340" height="072" alt="Untitled419_20260725145702" src="https://github.com/user-attachments/assets/b31076df-8429-4cef-b19a-10b747c76f26" />
+<img width="340" height="72" alt="Untitled419_20260725200934" src="https://github.com/user-attachments/assets/b750d6b8-9e7c-4ea8-90c1-9fd59492e463" />
 <br>
 <br>
- <img width="99" height="56" alt="Untitled417_20260725145538" src="https://github.com/user-attachments/assets/2e9cd725-df6b-4079-9e76-1a8afbf70068" />
-<img width="99" height="56" alt="Untitled421_20260725145846" src="https://github.com/user-attachments/assets/409917d9-d1ea-4eed-b840-ae6fb43885d9" />
-<img width="99" height="56" alt="Untitled420" src="https://github.com/user-attachments/assets/55bd8183-7517-4bbb-b20c-a7a2e821b2b9" />
+<img width="99" height="56" alt="Untitled417_20260725200958" src="https://github.com/user-attachments/assets/be326f16-5325-4890-b5d8-4782e5a39031" />
+<img width="99" height="56" alt="Untitled421_20260725201110" src="https://github.com/user-attachments/assets/1073ccc2-b1f2-438d-b390-ef0e1ec40375" />
+<img width="99" height="56" alt="Untitled420_20260725201028" src="https://github.com/user-attachments/assets/23936283-a5de-4f60-9c51-4ec1b4e66120" />
 <br>
  <br>
 <br>
@@ -58,4 +57,4 @@ Here are some ideas to get you started:
 <br><br>
 <br>
 <p align="center">
-<img width="1280" alt="Untitled413_20260725124035" src="https://github.com/user-attachments/assets/3fc99bb8-a357-4acb-9ae1-360a0d434f73" />
+<img width="1280" height="268" alt="Untitled413_20260725200849" src="https://github.com/user-attachments/assets/5c01008c-8b95-4d38-b637-c95771cae422" />
