@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 <p align="center">
-<img width="666"  alt="Untitled415_20260725131528 (1)" src="https://github.com/user-attachments/assets/bf8f5457-5dc5-4e62-beaa-31714d7932e5" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=500&color=55707e&center=true&vCenter=true&width=500&lines=더+크게+말해;지금부터+Lemon+ta-ta-tang;I+know+you+hate+it;But+like+날+섞는다면?;Can’t+deny+us.;다+이겨,+여름+Heart.">
 <br><br>
 <br><br>
 <br>
