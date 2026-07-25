@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <img width="1280"  alt="Untitled414_20260725200826" src="https://github.com/user-attachments/assets/5ef2ac61-2a10-44be-ba54-e190b60f1bdd" />
 
 <p align="center">
-<img width="736" height="414" alt="Untitled407_20260725200719" src="https://github.com/user-attachments/assets/a1ec9c6b-d98c-4ac6-98da-eea2388f1a07" />
+<img width="1036" height="615" alt="Untitled407_20260725200719" src="https://github.com/user-attachments/assets/a1ec9c6b-d98c-4ac6-98da-eea2388f1a07" />
 <p align="center">
 <br>
 <br> 
