@@ -16,5 +16,17 @@ Here are some ideas to get you started:
 
 
 
-
-ill make this tuff in like 20 mins
+<p align="center">
+<img width="1236" height="715" alt="Untitled407_20260725120553" src="https://github.com/user-attachments/assets/829bd73b-4f01-4887-b0a2-bfbe923bd780" />
+<p align="center">
+<br>
+<br>
+<br>
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=eggcchan&color=053c71&style=flat&label=Fished" alt="Views">
+</p>
+<br>
+<p align="center">
+<br>
+<br>
