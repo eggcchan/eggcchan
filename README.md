@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ⋮
  <img width="24"  alt="tumblr_0c13f1fa58a87e058f3b47e23d6b5614_b444f674_75" src="https://github.com/user-attachments/assets/5f2770a0-f753-42cc-a826-911021075af3" />
 ⋮
-<img width="24"  alt="tumblr_6d6d120586cd8c18ff2ebfe37af1e074_48a5356f_75" src="https://github.com/user-attachments/assets/807b383c-137e-4dda-8e5f-ece018236e06" />
+<img width="24"  alt="Untitled5_20260726210142" src="https://github.com/user-attachments/assets/b9db8410-192f-4f6d-a09d-c58e1d5a2e37" />
 ⋮
 ‎᭪݁
 <br>
