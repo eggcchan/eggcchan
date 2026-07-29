@@ -20,8 +20,11 @@ Here are some ideas to get you started:
 <p align="center">
 <img width="1036" height="615" alt="Untitled407_20260725200719" src="https://github.com/user-attachments/assets/a1ec9c6b-d98c-4ac6-98da-eea2388f1a07" />
 <p align="center">
+<a href="https://docs.google.com/document/d/1AcHjK9L2VPKX3F_umkEtXFSQejiVTFHQfCsj0sln5ro/edit?tab=t.0">read my callout document!</a>
+</p>
 <br>
 <br> 
+ <p align="center">
 ‎ꫂ ‎
 ⋮
  <img width="24"  alt="tumblr_0c13f1fa58a87e058f3b47e23d6b5614_b444f674_75" src="https://github.com/user-attachments/assets/5f2770a0-f753-42cc-a826-911021075af3" />
